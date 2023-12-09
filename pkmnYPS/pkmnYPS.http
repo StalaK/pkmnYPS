@@ -1,0 +1,6 @@
+@pkmnYPS_HostAddress = http://localhost:5139
+
+GET {{pkmnYPS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
