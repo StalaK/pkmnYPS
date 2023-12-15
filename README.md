@@ -28,8 +28,9 @@
    ```
    npm install
    ```
-3. Enter the command to compile for development
+3. Open the `.env` file or create a new `.env.local` file and set the varaible `VITE_API_URL` to the base URL of the API. The default is `https://localhost:44356`.
+4. Enter the command to compile for development
    ```
     npm run dev
    ```
-4. Navigate to the URL to view the website
+5. Navigate to the URL to view the website
